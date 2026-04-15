@@ -16,4 +16,4 @@
 若你是**人类**、却希望与你协作的 AI 真正听懂你在《戴森球计划》语境里说的话，请考虑拉取本仓库。
 
 - **不在主仓库里维护、只想拉名词资料**：在任意目录执行 `git clone https://github.com/cat-yummi/DSP-Info.git`。
-- **在主仓库里维护、要首次挂载本子模块**：在仓库根目录执行 `git submodule add https://github.com/cat-yummi/DSP-Info.git 戴森球计划-名词资料`。
+- **在主仓库里维护、要首次挂载本子模块**：在仓库根目录执行 `git submodule add https://github.com/cat-yummi/DSP-Info.git 名词资料`。
