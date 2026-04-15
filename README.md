@@ -15,6 +15,12 @@
 
 若你是**人类**、却希望与你协作的 AI 真正听懂你在《戴森球计划》语境里说的话，请先阅读本文件夹中的《名词解释》正文。
 
+**获取本文件夹来源（按需）**
+
+- **不在主仓库里维护、只想拉名词资料**：在任意目录执行 `git clone https://github.com/cat-yummi/DSP-Info.git`。
+- **不在主仓库里维护、要拉主仓库并带子模块**：`git clone --recurse-submodules https://github.com/zlin619/yummi-dspbp-maker.git`（主仓库见 [yummi-dspbp-maker](https://github.com/zlin619/yummi-dspbp-maker)）。
+- **在主仓库里维护、要首次挂载本子模块**：在仓库根目录执行 `git submodule add https://github.com/cat-yummi/DSP-Info.git 戴森球计划-名词资料`（最后一项为本地目录名，可按约定修改；本主仓库当前目录名为 `名词资料`，以 `.gitmodules` 为准）。
+
 若你只在网页里浏览主仓库、或下载的 ZIP 里不带子模块内容而看不到正文，请直接打开子模块仓库 [DSP-Info](https://github.com/cat-yummi/DSP-Info) 阅读。
 
 在本地已克隆主仓库且本文件夹里已有文件时，直接读即可，不必为了「对齐」再跑一遍子模块命令；若克隆后主仓库里本目录仍为空，再在仓库根目录执行 `git submodule update --init`。
